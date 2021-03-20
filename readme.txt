@@ -7,4 +7,4 @@ version 5
 version 6
 varsion 7
 creating a new branch is quick and simple
-versin 8
+versin 8 zhe bug had fixed
