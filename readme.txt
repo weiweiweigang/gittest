@@ -7,3 +7,4 @@ version 5
 version 6
 varsion 7
 creating a new branch is quick and simple
+zhe bug had fixed
